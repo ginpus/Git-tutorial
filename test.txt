@@ -1,0 +1,5 @@
+CMD, navigate to direcotry
+git init (creates . git file)
+create a file
+git status (shows uncommited changes)
+GitCraken - Open repository
